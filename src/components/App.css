@@ -1,0 +1,14 @@
+.board-list,
+.image-list {
+  display: flex;
+}
+
+.board--preview {
+}
+.board--image {
+  flex: 4;
+}
+
+img {
+  width: 100%;
+}
